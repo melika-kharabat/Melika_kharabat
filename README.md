@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I've been learning to code for 2 years, after graduated. I started with HTML, CSS, Then I continued my work by learning CSS and JavaScript frameworks.
+After graduating from university and learning the basic concepts of HTML and CSS, I became interested in digital marketing and SEO. After completing the apprenticeship courses, I am now ready to work remotely.
 
 * 🌍  I'm based in Iran-Kermanshah
 * ✉️  You can contact me at [kharabatmelika@gmail.com](mailto:kharabatmelika@gmail.com)
-* 🤝  I'm open to collaborating on web
+* 🤝  I'm open to collaborating
 
 <a href="https://www.github.com/melika-kharabat " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/melika-kharabat ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
